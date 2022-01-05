@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Question1",
+      "request": "launch",
+      "mainClass": "Chapter2.Question1",
+      "projectName": "SukkiriJava1_f8242ab0"
+    },
+    {
+      "type": "java",
       "name": "Launch Question2",
       "request": "launch",
       "mainClass": "Chapter1.Question2",
