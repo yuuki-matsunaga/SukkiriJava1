@@ -8,6 +8,27 @@
       "type": "java",
       "name": "Launch Question3",
       "request": "launch",
+      "mainClass": "Chapter5.Question3",
+      "projectName": "SukkiriJava1_f8242ab0"
+    },
+    {
+      "type": "java",
+      "name": "Launch Question2",
+      "request": "launch",
+      "mainClass": "Chapter5.Question2",
+      "projectName": "SukkiriJava1_f8242ab0"
+    },
+    {
+      "type": "java",
+      "name": "Launch Question1",
+      "request": "launch",
+      "mainClass": "Chapter5.Question1",
+      "projectName": "SukkiriJava1_f8242ab0"
+    },
+    {
+      "type": "java",
+      "name": "Launch Question3",
+      "request": "launch",
       "mainClass": "Chapter4.Question3",
       "projectName": "SukkiriJava1_f8242ab0"
     },
